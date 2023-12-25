@@ -1,1 +1,1 @@
-source code of paper Deep CSI Compression for Dual-Polarized Massive MIMO Channels with Disentangled Representation Learning
+Source code of paper _Deep CSI compression for dual-polarized massive MIMO channels with disentangled representation learning_
